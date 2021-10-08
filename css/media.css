@@ -1,0 +1,1872 @@
+@media only screen and (max-width : 1199px) {
+    /* шапка */
+    h1{
+        font-size: 30px;
+        line-height: 38px;
+    }
+
+    .main header{
+        padding-top: 28px;
+        padding-bottom: 69px;
+    }
+
+    .main .main-banner .info .description{
+        font-size: 20px;
+        line-height: 23px;
+        padding-bottom: 44px;
+    }
+
+    .main .main-banner .keypoints{
+        padding-bottom: 40px;
+    }
+
+    .main .main-banner .keypoints .wrapper{
+        height: 100px;
+    }
+
+    .main .main-banner .keypoints .item{
+        min-height: 100px;
+        height: 100px;
+        margin-right: 55px;
+    }
+
+    .main .main-banner .keypoints .item:before{
+        width: 60px;
+        height: 60px;
+        top: -18px;
+        left: calc(50% - 30px);
+    }
+
+    .main .main-banner .keypoints .design:after,
+    .main .main-banner .keypoints .delivery:after
+    {
+        width: 25px;
+        height: 23px;
+        top: calc(50% - 11.5px);
+        right: -41px;
+    }
+
+    .main .main-banner .keypoints .design,
+    .main .main-banner .keypoints .saving
+    {
+        width: 100px;
+    }
+
+    .main .main-banner .keypoints .delivery{
+        width: 140px;
+    }
+
+    .main .main-banner .keypoints .design .image{
+        width: 30px;
+        height: 30px;
+    }
+
+    .main .main-banner .keypoints .delivery .image{
+        width: 26px;
+        height: 30px;
+    }
+
+    .main .main-banner .keypoints .saving .image{
+        width: 35px;
+        height: 36px;
+        top: -4px;
+    }
+
+    .main .main-banner .keypoints .title{
+        font-size: 13px;
+        line-height: 16px;
+        padding-bottom: 7px;
+    }
+
+    .main .main-banner .keypoints .saving .title{
+        font-size: 17px;
+        line-height: 21px;
+        padding-top: 5px;
+        padding-bottom: 6px;
+    }
+
+    .main .main-banner .recall-main{
+        padding-bottom: 80px;
+    }
+
+    .main .main-banner .recall-main button{
+        line-height: 21px;
+    }
+
+    .main .price-from-container {
+        right: 293px;
+        bottom: 203px;
+    }
+
+
+    /* преимущества 1 */
+    .advantages-one{
+        padding-top: 80px;
+        padding-bottom: 30px;
+    }
+
+    .advantages-one .item .description{
+        font-size: 15px;
+        line-height: 18px;
+        padding: 0;
+    }
+
+    /* галерея */
+    .gallery{
+        padding-bottom: 45px;
+    }
+
+    .gallery h2{
+        margin-bottom: 33px;
+    }
+
+    .gallery .item{
+        margin-bottom: 35px;
+    }
+
+    .gallery .item.video{
+        margin-bottom: 30px;
+    }
+
+    /* основное преимущество */
+    .key-advantage{
+        padding-top: 50px;
+        padding-bottom: 80px;
+    }
+
+    .key-advantage .row{
+        padding-top: 34px;
+    }
+
+    .key-advantage .item .wrapper{
+        padding: 7px 40px 27px; /* вычитаем 3px за border*/
+    }
+
+    .key-advantage .item .title{
+        margin-bottom: 10px;
+    }
+
+    .key-advantage .item.correct .image img{
+        left: -17px;
+    }
+
+    .key-advantage .sign{
+        width: 50px;
+        height: 50px;
+    }
+
+    .key-advantage .item.correct .sign:before{
+        width: 20px;
+        height: 16px;
+    }
+
+    .key-advantage .item.wrong .sign:before{
+        width: 16px;
+        height: 16px;
+    }
+
+    .key-advantage .item.correct .confirmation{
+        font-size: 32px;
+        line-height: 40px;
+        right: -124px;
+    }
+
+
+    /* преимущество 2 */
+    .advantages-two{
+        padding-top: 70px;
+        padding-bottom: 80px;
+    }
+
+    .advantages-two h2{
+        margin-bottom: 33px;
+    }
+
+    .advantages-two .item .description{
+        font-size: 14px;
+        line-height: 20px;
+        padding: 0;
+    }
+
+    .advantages-two .item .image{
+        width: 106px;
+        height: 54px;
+        margin-bottom: 12px;
+    }
+
+
+    /* продукция */
+    .production{
+        padding-top: 50px;
+        padding-bottom: 80px;
+    }
+
+    .production h2{
+        margin-bottom: 35px;
+    }
+
+    .production .item .wrapper{
+        height: 100%;
+        padding: 30px 5px 25px;
+    }
+
+    .production .item .image{
+        padding: 0 0 7px;
+    }
+
+    .production .item .image img{
+        height: 173px;
+    }
+
+    /* форма 1*/
+    .form-section{
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+
+    .form-section h3,
+    .popup-form h3
+    {
+        font-size: 43px;
+        line-height: 54px;
+        margin-right: 0;
+    }
+
+    #form-one-img{
+        max-width: initial;
+        width: 468px;
+        height: auto;
+        position: absolute;
+        right: auto;
+        left: -30px;
+        top: -8px;
+    }
+
+    /* ошибки клиентов */
+    .errors{
+        padding-top: 50px;
+        padding-bottom: 81px;
+    }
+
+    .errors h2{
+        margin-bottom: 33px;
+    }
+
+    .errors h3{
+        padding-right: 0;
+        margin-bottom: 15px;
+    }
+
+    .errors .item{
+        width: 100%;
+    }
+
+    .errors .item .number{
+        font-size: 54px;
+        line-height: 68px;
+        text-align: right;
+        padding-right: 6px;
+        justify-content: flex-end;
+    }
+
+
+    /* применение */
+    .applying{
+        padding-top: 70px;
+        padding-bottom: 40px;
+    }
+
+    .applying .item{
+        padding-bottom: 40px;
+    }
+
+    .applying .item .image{
+        margin-bottom: 10px;
+    }
+
+    .applying .item .title{
+        padding: 0 0 10px;
+    }
+
+    .applying .item .description{
+        padding: 0 0 0;
+    }
+
+    /* доверяют */
+    .confidence{
+        padding-top: 50px;
+        padding-bottom: 80px;
+    }
+
+    .confidence h2{
+        margin-bottom: 33px;
+    }
+
+    .confidence .item{
+
+    }
+
+    .confidence .item img{
+        height: 50px;
+    }
+
+    .slick-prev, .slick-next{
+        top: calc(50% + 5px)
+    }
+
+    .slick-prev {
+        left: -64px;
+    }
+
+    .slick-next {
+        right: -64px;
+    }
+
+    /* применение */
+    .scheme{
+        padding-bottom: 0; /* было 34px до введения обёртки в форме ниже */
+    }
+
+    .scheme h2{
+        margin-bottom: 33px;
+    }
+
+    .scheme .item .title{
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+
+    /* форма 2 */
+    .form-section-two{
+        padding-top: 34px;
+        padding-bottom: 0;
+    }
+
+    .form-section-two .overflow-wrapper{
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+
+    .form-section-two .image{
+        height: auto;
+    }
+
+    #form-two-img{
+        width: 491px;
+        max-width: initial;
+        position: absolute;
+        bottom: -80px;
+        left: -55px;
+    }
+
+    /* подвал */
+    .footer{
+        padding-top: 21px;
+    }
+
+    .footer .col-lg-33:nth-child(3) .content{
+        padding-right: 40px;
+    }
+
+    /* popup форма */
+    .popup-form{
+        padding: 30px;
+    }
+}
+
+@media only screen and (max-width : 991px) {
+    /* анимация */
+    .play-wrapper:after{
+        border: 14px solid rgba(216, 70, 63, 0.3);
+    }
+
+    /* шапка */
+    .main header{
+        padding-top: 20px;
+        padding-bottom: 36px;
+    }
+
+    .main header .logo{
+        width: 137px;
+        flex-wrap: wrap;
+    }
+
+    .main header .logo .image-wrapper{
+        margin-bottom: 9px;
+    }
+
+    .main .logo .logo-description{
+        padding: 0 10px 0;
+        font-size: 10px;
+        line-height: 12px;
+        text-align: center;
+    }
+
+    .main .awards img{
+        width: 97px;
+        height: 60px;
+    }
+
+    .main .contacts{
+        width: 155px;
+        flex-wrap: wrap;
+    }
+
+    .main .contacts .phone{
+        justify-content: center;
+        margin-bottom: 9px;
+        padding-right: 0;
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    .main .contacts .recall-button button{
+        font-size: 12px;
+        line-height: 15px;
+        padding: 10px 23px 11px 24px;
+    }
+
+    h1{
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 13px;
+    }
+
+    .main .main-banner .info .description{
+        font-size: 16px;
+        line-height: 19px;
+        padding-bottom: 34px;
+    }
+
+    .main .main-banner .keypoints{
+        padding-bottom: 25px;
+    }
+
+    .main .main-banner .keypoints .item{
+        margin-right: 35px;
+    }
+
+    .main .main-banner .keypoints .design:after,
+    .main .main-banner .keypoints .delivery:after
+    {
+        right: -31px;
+    }
+
+    .main .price-from-container {
+        right: 187px;
+        bottom: 183px;
+    }
+
+    .main .price-from{
+        width: 102px;
+        height: 102px;
+    }
+
+    .main .price-from:after{
+        width: 11px;
+        height: 11px;
+        z-index: 33;
+        right: 9px;
+        bottom: 11px;
+    }
+
+    .main .price-from p{
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .main .price-from .decorate{
+        font-size: 27px;
+        line-height: 34px;
+    }
+
+    .main .main-banner .recall-main{
+        padding-bottom: 55px;
+    }
+
+
+    /* преимущества 1 */
+    .advantages-one{
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+
+    .advantages-one .item .image{
+        height: 46px;
+        margin-bottom: 13px;
+    }
+
+    .advantages-one .item .description{
+        font-size: 13px;
+        line-height: 15px;
+        margin-top: 0;
+    }
+
+
+    /* производство */
+    .gallery{
+        padding-top: 40px;
+        padding-bottom: 36px;
+    }
+
+    .gallery h2{
+        margin-bottom: 23px;
+    }
+
+    .gallery .item{
+        margin-bottom: 34px;
+    }
+
+    .gallery .item.video .button{
+        width: 72px;
+        height: 72px;
+    }
+
+    .gallery .item.video .button:before{
+        width: 15px;
+        height: 16px;
+    }
+
+    /* основное преимущество */
+    .key-advantage{
+        padding-top: 40px;
+        padding-bottom: 46px;
+    }
+
+    .key-advantage .row{
+        padding-top: 24px;
+    }
+
+    .key-advantage h2,
+    .key-advantage .description
+    {
+        margin-bottom: 10px;
+    }
+
+    .key-advantage .description{
+        font-size: 13px;
+        line-height: 15px;
+    }
+
+    .key-advantage .description-big{
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .key-advantage .row{
+        padding-bottom: 24px;
+    }
+
+    .key-advantage .item .wrapper{
+        /*padding: 7px 20px 14px; отступ на 3px меньше сверху и снизу из-за border*/
+        padding: 10px 20px 17px;
+    }
+
+    .key-advantage .item.correct .image img{
+        height: 240px;
+    }
+
+    .key-advantage .sign{
+        width: 40px;
+        height: 40px;
+    }
+
+    .key-advantage .item.correct .sign:before{
+        width: 16px;
+        height: 13px;
+    }
+
+    .key-advantage .item.wrong .sign:before{
+        width: 13px;
+        height: 13px;
+    }
+
+    .key-advantage .item.correct .confirmation{
+        font-size: 27px;
+        line-height: 34px;
+        top: 102px;
+        right: -103px;
+    }
+
+    .key-advantage .item .title{
+        font-size: 17px;
+        line-height: 21px;
+    }
+
+    .key-advantage .item .description{
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    /* преимущества 2 */
+    .advantages-two{
+        padding-bottom: 70px;
+    }
+
+    .advantages-two h2{
+        margin-bottom: 23px;
+    }
+
+    .advantages-two .item .image{
+        width: 86px;
+        height: 44px;
+        margin-bottom: 10px;
+    }
+
+    .advantages-two .item .description{
+        line-height: 18px;
+        padding: 0 0;
+    }
+
+    /* продукция */
+    .production{
+        padding-top: 40px;
+        padding-bottom: 70px;
+    }
+
+    .production h2{
+        margin-bottom: 23px;
+    }
+
+    .production .item .wrapper{
+        padding: 20px 0 19px;
+    }
+
+    .production .item .image{
+        padding-bottom: 9px;
+    }
+
+    .production .item .image img{
+        height: 126px;
+    }
+
+    .production .item .title{
+        margin-top: 0;
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 8px;
+    }
+
+    .production .item .description{
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    /* форма 1 */
+    .form-section{
+        padding-top: 50px;
+        padding-bottom: 71px;
+    }
+
+    .form-section h3,
+    .popup-form h3
+    {
+        font-size: 34px;
+        line-height: 43px;
+        margin-bottom: 15px;
+        margin-right: -30px;
+    }
+
+    .form-section .description,
+    .popup-form .description{
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .form-section form,
+    .popup-form form
+    {
+        padding-top: 22px;
+    }
+
+    .form-section .form-wrapper,
+    .popup-form .form-wrapper
+    {
+        width: 280px;
+    }
+
+    .form-section .subrow,
+    .popup-form .subrow
+    {
+        width: 100%;
+    }
+
+    .form-section .subrow:nth-child(odd),
+    .popup-form .subrow:nth-child(odd)
+    {
+        margin-right: 0;
+    }
+
+    .form-section .form-description,
+    .popup-form .form-description
+    {
+        padding-top: 10px;
+    }
+
+    #form-one-img{
+        left: -140px;
+        top: 30px;
+    }
+
+    /* ошибки клиентов */
+    .errors{
+        padding-top: 40px;
+        padding-bottom: 70px;
+    }
+
+    .errors h2{
+        margin-bottom: 23px;
+    }
+
+    .errors h3{
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 10px;
+    }
+
+    .errors .item{
+        margin-bottom: 10px;
+    }
+
+    .errors .item .sign{
+        width: 39px;
+    }
+
+    .errors .correct .item .sign:before{
+        width: 13px;
+        height: 10px;
+    }
+
+    .errors .wrong .item .sign:before{
+        width: 10px;
+        height: 10px;
+    }
+
+    .errors .item .text{
+        width: calc(100% - 39px);
+    }
+
+    .errors .item .text .title{
+        font-size: 13px;
+        line-height: 16px;
+        padding-right: 7px;
+    }
+
+    .errors .item .text .description{
+        padding-right: 11px;
+    }
+
+    .errors .item .number{
+        display: none;
+    }
+
+
+    /* применение */
+    .applying{
+        padding-top: 60px;
+        padding-bottom: 33px;
+    }
+
+    .applying h2{
+        margin-bottom: 23px;
+    }
+
+    .applying .item{
+        padding-bottom: 37px;
+    }
+
+    .applying .item .title{
+        font-size: 14px;
+        line-height: 18px;
+        padding-bottom: 4px;
+    }
+
+
+    /* доверие */
+    .confidence{
+        padding-bottom: 70px;
+    }
+
+    .confidence h2{
+        margin-bottom: 23px;
+    }
+
+    .slick-prev {
+        left: -44px;
+    }
+
+    .slick-next {
+        right: -44px;
+    }
+
+    /* схема */
+    .scheme{
+        padding-bottom: 30px;
+    }
+
+    /* форма 2 */
+    .form-section-two{
+        padding-bottom: 70px;
+        background: url(../img/key-advantage-bg.jpg);
+        background-size: cover;
+    }
+
+    .form-section-two .overflow-wrapper{
+        padding-top: 0;
+        padding-bottom: 0;
+        background: transparent;
+    }
+
+    #form-two-img{
+        left: -168px;
+        bottom: -70px;
+    }
+
+    /* подвал */
+    .footer{
+        padding-top: 20px;
+        padding-bottom: 15px;
+    }
+
+    .footer .not-bootstrap-row{
+        align-items: flex-start;
+    }
+
+    .footer .col-md-33{
+        width: 33.3%;
+    }
+
+    .footer .d-flex-column-md{
+        flex-direction: column;
+    }
+
+    .footer .col-md-100{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .footer .col-md-100:last-child{
+        margin-bottom: 0;
+    }
+
+    .footer .col-md-100 .label,
+    .footer .col-md-100 .content
+    {
+        text-align: center;
+    }
+
+    .footer .col-lg-33:nth-child(3) .content{
+        padding-right: 0;
+    }
+
+    .footer .content{
+        padding-bottom: 0;
+    }
+
+    /* popup форма */
+    .popup-form,
+    .popup-video
+    {
+        width: 490px;
+    }
+
+    .popup-form{
+        padding: 30px 40px;
+    }
+
+    .popup-form h3{
+        margin-right: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .popup-form .form-description{
+        padding-top: 20px;
+    }
+}
+
+@media only screen and (max-width : 767px) {
+    /* анимация */
+    .play-wrapper:after{
+        border: 10px solid rgba(216, 70, 63, 0.3);
+    }
+
+    /* шапка */
+    .main header{
+        padding-top: 10px;
+        padding-bottom: 29px;
+        align-items: flex-start;
+    }
+
+    .main header .logo{
+        width: 126px;
+    }
+
+    .main header .logo .image-wrapper{
+        margin-bottom: 5px;
+    }
+
+    .main .logo .logo-description{
+        padding: 0 0;
+    }
+
+    .main .awards img{
+        width: 77px;
+        height: 48px;
+    }
+
+    .main .contacts{
+        justify-content: flex-end;
+    }
+
+    .main .contacts .phone{
+        margin-bottom: 5px;
+    }
+
+    .main .contacts .recall-button button{
+        font-size: 11px;
+        line-height: 14px;
+        padding: 7px 15px 9px; /* для выравнивания кнопки по высоте */
+        height: 30px;
+        min-height: 30px;
+    }
+
+    h1
+    {
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 10px;
+    }
+
+    .main .main-banner .info .description{
+        font-size: 13px;
+        line-height: 15px;
+    }
+
+    .main .main-banner .keypoints{
+        padding-bottom: 20px;
+    }
+
+    .main .main-banner .keypoints .item{
+        margin-right: 20px;
+    }
+
+    .main .main-banner .keypoints .design,
+    .main .main-banner .keypoints .saving,
+    .main .main-banner .keypoints .delivery
+    {
+        height: 110px;
+    }
+
+    .main .main-banner .keypoints .design,
+    .main .main-banner .keypoints .saving
+    {
+        width: 80px;
+    }
+
+    .main .main-banner .keypoints .delivery{
+        width: 90px;
+    }
+
+    .main .main-banner .keypoints .design:after,
+    .main .main-banner .keypoints .delivery:after{
+        width: 10px;
+        height: 9px;
+        right: -15px;
+    }
+
+    .main .main-banner .keypoints .saving .image{
+        top: -7px;
+    }
+
+    .main .main-banner .keypoints .title{
+        font-size: 13px;
+        line-height: 16px;
+        padding: 5px 5px 5px 6px;
+    }
+
+    .main .main-banner .keypoints .saving .title{
+        font-size: 15px;
+        line-height: 19px;
+    }
+
+    .main .main-banner .keypoints .saving .price{
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    .main .price-from-container {
+        right: 131px;
+        bottom: 150px;
+    }
+
+    .main .price-from{
+        width: 87px;
+        height: 87px;
+    }
+
+    .main .price-from:after{
+        width: 10px;
+        height: 10px;
+        right: 6px;
+        bottom: 12px;
+    }
+
+    .main .price-from p{
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .main .price-from .decorate{
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .main .main-banner .recall-main{
+        padding-bottom: 50px;
+    }
+
+    .main .main-banner .recall-main button{
+        font-size: 14px;
+        line-height: 18px;
+        height: 46px;
+        padding: 13px 24px 14px 25px;
+        margin-right: 10px;
+    }
+
+    .main .main-banner .recall-main .recall-description{
+        width: 85px;
+        font-size: 13px;
+        line-height: 15px;
+    }
+
+    /* преимущества 1 */
+    .advantages-one{
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+
+    .advantages-one .item{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .advantages-one .item .image{
+        margin-bottom: 13px;
+    }
+
+    .advantages-one .item .description{
+        font-size: 12px;
+        line-height: 14px;
+        padding: 0;
+    }
+
+    /* производство */
+    .gallery{
+        padding-top: 20px;
+        padding-bottom: 8px;
+    }
+
+    .gallery h2{
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 15px;
+    }
+
+    .gallery .item{
+        margin-bottom: 42px; /* не 43, т.к. так ровнее */
+    }
+
+    .gallery .item.video .button{
+        width: 50px;
+        height: 50px;
+    }
+
+    .gallery .item.video .button:before{
+        width: 10px;
+        height: 11px;
+    }
+
+    /* основное преимущество */
+    .key-advantage{
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+
+    .key-advantage h2,
+    .key-advantage .description{
+        margin-bottom: 5px;
+    }
+
+    .key-advantage h2{
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .key-advantage .description-big{
+        font-size: 13px;
+        line-height: 15px;
+    }
+
+    .key-advantage .row{
+        padding-top: 16px;
+        padding-bottom: 0;
+    }
+
+    .key-advantage .item.correct{
+        margin-bottom: 20px;
+    }
+
+    .key-advantage .item .image-wrapper{
+        margin-bottom: 6px;
+    }
+
+    .key-advantage .item .image img{
+        height: 240px;
+    }
+
+    .key-advantage .item .title{
+        margin-bottom: 9px;
+    }
+
+    .key-advantage .item .wrapper{
+        padding: 10px 17px 20px; /* 17 по ширине из-за border */
+    }
+
+    .key-advantage .item.correct .confirmation{
+        right: -93px;
+    }
+
+
+    /* преимущества 2 */
+    .advantages-two{
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+
+    .advantages-two h2{
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 15px;
+    }
+
+    .advantages-two .item .image{
+        width: 59px;
+        height: 30px;
+        margin-bottom: 7px;
+    }
+  
+
+    /* форма 1 */
+    .form-section{
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+
+    .form-section h3,
+    .popup-form h3
+    {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+
+    #form-one-img{
+        width: 373px;
+        top: 0;
+        left: -89px;
+    }
+
+    .form-section .description,
+    .popup-form .description
+    {
+        font-size: 13px;
+        line-height: 15px;
+    }
+
+    .form-section .form-wrapper,
+    .popup-form .form-wrapper
+    {
+        width: 210px;
+    }
+
+    .form-section form,
+    .popup-form form
+    {
+        padding-top: 16px;
+    }
+
+    .form-section .row .subrow input[type="text"],
+    .form-section .row .subrow input[type="submit"],
+    .popup-form .subrow input[type="text"],
+    .popup-form .subrow input[type="submit"]
+    {
+        height: 46px;
+        margin-bottom: 10px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .form-section input[type="text"],
+    .popup-form input[type="text"]
+    {
+        padding: 14px 50px; /* запас по сторонам */
+    }
+
+    .form-section input[type="submit"],
+    .popup-form input[type="submit"]
+    {
+        padding: 14px 46px;
+    }
+
+    .form-section .form-description {
+        padding-top: 0;
+    }
+
+
+    /* ошибки клиентов */
+    .errors{
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+
+    .errors h2{
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 15px;
+    }
+
+    .errors h3{
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 6px;
+    }
+
+    .errors .item{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        min-height: 52px;
+    }
+
+    .errors .item .text .title{
+        margin-bottom: 4px;
+    }
+
+    .errors .item .text .description{
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    .errors .item:nth-child(1){
+        height: 70px;
+    }
+
+    .errors .item:nth-child(2){
+        height: 98px;
+    }
+
+    .errors .item:nth-child(3){
+        height: 82px;
+    }
+
+    .errors .item:nth-child(4){
+        height: 112px;
+    }
+
+    .errors .item:nth-child(5){
+        height: 96px;
+    }
+
+    .errors .item:nth-child(6){
+        height: 98px;
+    }
+
+    .errors .item:nth-child(7){
+        height: 52px;
+    }
+
+    .errors .item .text .description{
+        padding-right: 9px;
+    }
+
+    .errors .item.correct .text .description{
+        padding-right: 10px;
+    }
+
+
+    /* где применяют */
+    .applying{
+        padding-top: 40px;
+        padding-bottom: 17px; /* +33 отступ item */
+    }
+
+    .applying h2{
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 31px;
+    }
+
+    .applying .item{
+        padding-bottom: 33px;
+    }
+
+    .applying .item .title{
+        font-size: 13px;
+        line-height: 16px;
+    }
+
+    .applying .item .description{
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+
+    /* доверяют */
+    .confidence{
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+
+    .confidence h2{
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 15px;
+        padding: 0 55px;
+    }
+
+    .confidence .item img{
+        height: 40px;
+    }
+
+    .slick-prev,
+    .slick-next
+    {
+        width: 30px;
+        height: 30px;
+        min-height: 30px;
+        top: 50%;
+    }
+
+    .slick-prev:before,
+    .slick-next:before
+    {
+        width: 5px;
+        height: 9px;
+    }
+
+    .slick-prev {
+        left: -30px;
+    }
+
+    .slick-next {
+        right: -30px;
+    }
+
+
+    /* схема */
+    .scheme{
+        padding-bottom: 17px;
+    }
+
+    .scheme h2{
+        margin-bottom: 15px;
+    }
+
+    .scheme .item .title{
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .scheme .item .description{
+        font-size: 13px;
+        line-height: 15px;
+    }
+
+    /* схема 2 */
+    .form-section-two{
+        padding-top: 50px;
+        padding-bottom: 46px;
+    }
+
+    #form-two-img{
+        width: 351px;
+        left: -116px;
+        bottom: -46px;
+    }
+
+    /* подвал */
+    .footer .logo,
+    .footer .logo-description
+    {
+        width: 126px;
+    }
+
+    .footer .logo-description{
+        text-align: center;
+        font-size: 10px;
+        line-height: 12px;
+        padding-bottom: 0;
+    }
+
+    .footer .label{
+        padding-bottom: 4px;
+    }
+
+    .footer .col-md-100{
+        margin-bottom: 10px;
+    }
+
+    .footer .phone{
+        font-size: 15px;
+        line-height: 19px;
+        padding-bottom: 5px;
+    }
+
+    .footer .recall-button button{
+        font-size: 11px;
+        line-height: 14px;
+        padding: 7px 14px 9px 15px;
+        min-width: 128px;
+        min-height: 30px;
+    }
+
+    .footer .col-lg-20:first-child{
+        width: 126px;
+    }
+
+    .footer .col-lg-20:last-child{
+        width: 128px;
+    }
+
+    .footer .col-lg-60{
+        width: calc(100% - 126px - 128px);
+    }
+
+    .footer .col-lg-33:nth-child(3) .content{
+        padding: 0 10px;
+    }
+
+
+    /* popup форма */
+    .popup-form{
+        width: 375px;
+    }
+
+    .popup-form{
+        height: auto;
+    }
+
+    .popup-form .form-description{
+        padding-top: 0;
+    }
+
+
+    /* popup видео */
+    /* popup видео */
+    .popup-video{
+        width: calc(100% - 30px);
+    }
+
+    .popup-video .close{
+        right: 0;
+    }
+}
+
+@media only screen and (max-width : 575px) {
+    /* шапка */
+    .main{
+        background: url('../img/header-banner-small.jpg');
+        background-position: top center;
+    }
+
+    .main header{
+        padding-bottom: 19px;
+    }
+
+    .main header .awards{
+        display: none;
+    }
+
+    .main .contacts .phone{
+        font-size: 15px;
+        line-height: 19px;
+    }
+
+    h1{
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 5px;
+    }
+
+    .main .main-banner .info .description{
+        font-size: 12px;
+        line-height: 14px;
+        padding-bottom: 28px;
+    }
+
+    .main .main-banner .keypoints{
+        padding-bottom: 246px;
+    }
+
+    .main .main-banner .recall-main{
+        padding-bottom: 30px;
+    }
+
+    .main .main-banner .recall-main button{
+        padding: 13px 16px 15px 17px;
+    }
+
+    .main .price-from-container {
+        right: calc(50% + 48px);
+        bottom: 193px;
+    }
+
+    .main .price-from{
+        padding-bottom: 6px;
+    }
+
+    /* преимущества 1 */
+    .advantages-one{
+        padding-bottom: 20px;
+    }
+
+    .advantages-one .row{
+        justify-content: center;
+    }
+
+    .advantages-one .item .image{
+        width: auto;
+        height: 46px;
+        margin-bottom: 7px;
+    }
+
+    .advantages-one .item .description{
+        padding-bottom: 20px;
+    }
+
+    .advantages-one .item:last-child .description{
+        padding-bottom: 0;
+    }
+
+    /* производство */
+    .gallery{
+        padding-bottom: 40px;
+    }
+
+    .gallery .col-12{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .gallery .wrapper{
+        width: 100%;
+    }
+
+    .gallery .item,
+    .gallery .item.video
+    {
+        margin-bottom: 10px;
+    }
+
+    .gallery .item.video:before {
+        padding-top: 62.76%;
+    }
+
+    .gallery .xs-50{
+        width: calc(50% - 15px);
+    }
+
+    .gallery .xs-50:first-child{
+        margin-right: 30px;
+    }
+
+    /* Основное преимущество */
+    .key-advantage .item.correct{
+        margin-bottom: 10px;
+    }
+
+    .key-advantage .item .wrapper{
+        padding: 7px 17px 13px;
+    }
+
+    .key-advantage .item.correct .confirmation{
+        font-size: 23px;
+        line-height: 29px;
+        top: 82px;
+        right: -88px;
+    }
+
+    .key-advantage .item .title{
+        margin-top: -4px; /* заезжает на изображение на макете */
+        margin-bottom: 5px;
+        font-size: 15px;
+        line-height: 19px;
+    }
+
+    .key-advantage .item .description{
+        line-height: 15px;
+    }
+
+
+    /* преимущество 2*/
+    .advantages-two{
+        padding-bottom: 50px;
+    }
+
+    .advantages-two .item .description{
+        max-width: 130px;
+        margin: 0 auto;
+    }
+
+    .advantages-two .item .image{
+        width: 59px;
+        height: 30px;
+    }
+
+
+    /* форма 1 */
+    .form-section h3,
+    .popup-form h3
+    {
+        font-size: 21px;
+        line-height: 26px;
+        text-align: center;
+        margin-right: 0;
+    }
+
+    .form-section .description{
+        text-align: center;
+    }
+
+    .form-section .form-wrapper{
+        margin: 0 auto;
+    }
+
+    .form-section form,
+    .popup-form form
+    {
+        padding-top: 10px;
+    }
+
+    #form-one-img{
+        display: none;
+    }
+
+    /* ошибки клиентов */
+    .errors h3{
+        height: 30px;
+        font-size: 12px;
+        line-height: 15px;
+        margin-bottom: 12px;
+    }
+
+    .errors .item{
+        padding: 5px 5px 5px 10px;
+    }
+
+    .errors .item .sign{
+        display: none;
+    }
+
+    .errors .item .text .title,
+    .errors .item .text .description{
+        padding-right: 0;
+    }
+
+    .errors .item .text{
+        width: 100%;
+    }
+
+    .errors .item:nth-child(1){
+        height: 104px;
+    }
+
+    .errors .item:nth-child(2){
+        height: 118px;
+    }
+
+    .errors .item:nth-child(3){
+        height: 116px;
+    }
+
+    .errors .item:nth-child(4){
+        height: 160px;
+    }
+
+    .errors .item:nth-child(5){
+        height: 130px;
+    }
+
+    .errors .item:nth-child(6){
+        height: 132px;
+    }
+
+    .errors .item:nth-child(7){
+        height: 58px;
+    }
+
+
+    /* применение */
+    .applying{
+        padding-bottom: 30px;
+    }
+
+    .applying h2{
+        margin-bottom: 15px;
+    }
+
+    .applying .item{
+        padding-bottom: 20px;
+    }
+
+    .applying .item .image{
+        margin-bottom: 5px;
+    }
+
+    /* Расчитать стоимость сейчас */
+    .slider__item {
+        padding: 20px 25px 25px;
+    }
+    .brief__title {
+        font-size: 19px;
+        line-height: 25px;
+    }
+    .radio__text {
+        display: inline-block;
+        max-width: 200px;
+        font-size: 14px;
+    }
+    .brief__input {
+        width: 100%;
+        font-size: 14px;
+        padding: 20px 15px 20px 15px
+    }
+    button.brief__prev, button.brief__next, .brief__submit  {
+        font-size: 14px;
+    }
+
+    /* Примеры работ */
+    .portfolio__slider {
+        max-width: 90%;
+        margin: auto;
+    }
+    /* доверие */
+    .confidence h2{
+        padding: 0;
+    }
+
+    .slick-prev{
+        left: -26px;
+    }
+
+    .slick-next{
+        right: -26px;
+    }
+
+    .slick-prev:before{
+        position: relative;
+        left: -1px;
+    }
+
+
+    /* схема */
+    .scheme{
+        padding-bottom: 20px;
+    }
+
+    .scheme .item .image{
+        margin-bottom: 10px;
+    }
+
+    .scheme .item{
+        padding-bottom: 30px;
+    }
+
+
+    /* форма 2 */
+    .form-section-two{
+        padding-top: 30px;
+    }
+
+    #form-two-img{
+        display: none;
+    }
+
+
+    /* подвал */
+    .footer{
+        padding-bottom: 0;
+    }
+
+    .footer .logo{
+        margin-bottom: 5px;
+    }
+
+    .footer .not-bootstrap-row{
+        flex-direction: column;
+    }
+
+    .footer .col-lg-20,
+    .footer .col-lg-20:first-child,
+    .footer .col-lg-20:last-child,
+    .footer .col-lg-33,
+    .footer .col-lg-60
+    {
+        width: 100%;
+        display: flex;
+        align-items: center;
+    }
+
+    .footer .col-lg-20,
+    .footer .col-lg-60,
+    .footer .col-md-100
+    {
+        margin-bottom: 20px;
+    }
+
+    .footer .col-lg-33:nth-child(3) .content{
+        padding: 0 12px;
+    }
+
+
+    /* popup форма */
+    .popup-form{
+        width: 300px;
+    }
+
+    .popup-form{
+        padding: 15px 10px;
+    }
+
+    .popup-form .close{
+        top: 20px;
+        right: 15px;
+    }
+
+    /* Страница "Спасибо" */
+    .thankyoupage {
+        background: url('../img/header-banner-small.jpg');
+        background-position: bottom center;
+    }
+
+    .thankyoupage .thanks{
+        padding: 40px;
+    }
+
+    .thankyoupage .thanks h1{
+        font-size: 26px;
+        line-height: 28px;
+    }
+
+    .thankyoupage .thanks .description{
+        font-size: 13px;
+        line-height: 15px;
+    }
+
+    .thankyoupage .thanks{
+        font-size: 20px;
+        line-height: 24px;
+    }
+}
